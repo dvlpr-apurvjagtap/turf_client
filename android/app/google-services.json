@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "732171665921",
+    "project_id": "turf-f0104",
+    "storage_bucket": "turf-f0104.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732171665921:android:9ea1a7633fbc15c9453600",
+        "android_client_info": {
+          "package_name": "com.codewitzz.turf_client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu1uu459uIksSsDTcXF1MQIOQ0rMxIe1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732171665921:android:06bcdd6a51b5fb73453600",
+        "android_client_info": {
+          "package_name": "com.codewitzz.turf_owner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu1uu459uIksSsDTcXF1MQIOQ0rMxIe1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
